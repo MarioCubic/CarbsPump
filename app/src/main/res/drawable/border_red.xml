@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Обводка -->
+    <stroke
+        android:color="#A600FF"
+        android:width="2dp" />
+
+    <!-- Скругление углов -->
+    <corners android:radius="4dp" />
+</shape>

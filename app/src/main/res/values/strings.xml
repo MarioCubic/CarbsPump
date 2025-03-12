@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">CarbsCalc</string>
+    <string name="weight" translatable="false">Вес порции</string>
+    <string name="carbs_per_100" translatable="false">Углеводов на 100гр.</string>
+    <string name="pause" translatable="false">Пауза</string>
+    <string name="button" translatable="false">Еще блюдо!</string>
+    <string name="apply" translatable="false">Применить</string>
+    <string name="cancel" translatable="false">Отмена</string>
+    <string name="insulin" translatable="false">Инсулин</string>
+    <string name="carbs" translatable="false">Углеводы</string>
+    <string name="time_date" translatable="false">Уточните время и дату</string>
+    <string name="xdrip_connect" translatable="false">Соединение с xDrip</string>
+    <string name="clear" translatable="false">Очистить</string>
+    <string name="xdrip" translatable="false">xDrip</string>
+    <string name="exit" translatable="false">Выход</string>
+</resources>
